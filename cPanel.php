@@ -1,5 +1,7 @@
 <?php
 
+namespace myPHPnotes;
+
 /**
 *   Controlling cPanel
 *   PHP module for the cPanel JSON API
