@@ -5,7 +5,8 @@
     "keywords": ["api", "http", "rest", "cPanel", "UAPI", "api2"],
     "homepage": "https://www.myphpnotes.tk",
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=5.6.0",
+        "myphpnotes/cpanel": "dev-master"
     },
     "autoload": {
         "psr-4": {
