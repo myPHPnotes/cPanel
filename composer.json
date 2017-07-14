@@ -7,13 +7,11 @@
     "require": {
         "php": ">=5.6.0"
     },
-    "prefer-stable" : true,
     "autoload": {
         "psr-4": {
             "myPHPnotes\\": "src/"
         }
     },
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
