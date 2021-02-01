@@ -1,6 +1,11 @@
 # cPanel UAPI PHP Wrapper
 A simple, lightweight library to access JSON cPanel v2 and cPanel UAPI in PHP
 
+## Installation via composer
+Add it to your project via
+`composer require myphpnotes/cpanel`
+
+
 ## Documentation
 For documentation and video tutorials, please refer [here](https://www.myphpnotes.com/post/cpanel-uapi-and-api-php-integration "here").
 
